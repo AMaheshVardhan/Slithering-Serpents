@@ -15,9 +15,9 @@ Game settings: You can modify various game settings by editing the main.py file.
 
 Adding new features: The code is modular and organized into different classes (Snake, Food, Scoreboard). You can extend the game by adding new features or functionalities to these classes.
 
-Feel free to customize the README file according to your preferences, adding any additional information or sections that you think would be helpful for users accessing your code repository.
+Feel free to customize the README file according to your preferences, adding any additional information or sections that you think would be helpful for users accessing your code repo.
 
-
+    
 
 
 
